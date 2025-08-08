@@ -25,59 +25,23 @@ h3{
 }
 p{
     font-size: 20px;
-    font-weight: 200;
 }
 .blue{
     color: #1f98ff;
 }
-.nav{
-    width: 100%;
-}
+
 .bold{
     font-weight: 500;
 }
-.navWrapper{
-    width: 80%;
-    margin: auto;
-}
-.navWrapper a {
-    float: left;
-    margin-top: 3em;
-    text-decoration: none;
-}
+
 
 .right{
     float: right;
 }
 
-.menu, .search{
-    display: flex;
-    align-items: center;
-}
 
-.menu img{
-    margin-right: 10px;
-}
 
-.search img{
-    margin-left: 10px;
-}
 
-.menu p, .search p{
-    color: #65747e;
-    font-size: 26px
-}
-
-.menu{
-    margin-left: 50px;
-}
-.search{
-    margin-right: 50px;
-}
-
-.navIcon{
-    margin-right: 30px;
-}
 .imageSection{
     width: 100%;
 }
@@ -134,11 +98,7 @@ p{
 .mainContent{
     flex: 3;
 }
-.sideBar{
-    flex: 1;
-    margin-top: 30px;
-    text-align: right;
-}
+
 
 .mainContent p{
     margin-top: 30px;
